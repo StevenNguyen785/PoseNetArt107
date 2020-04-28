@@ -11,7 +11,7 @@ let skeleton;
 let PPAP;
 
 function preload() {
-  PPAP = loadImage('assets/giphy.gif')
+  PPAP = loadImage('giphy.gif')
 }
 
 function setup() {
